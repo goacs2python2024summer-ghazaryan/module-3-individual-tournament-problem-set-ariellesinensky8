@@ -1,4 +1,4 @@
-# Project 1
+# Individual Game Show Strategies
 
 Please complete the problems on the assignment page as follows.
 
@@ -11,15 +11,6 @@ Please complete the problems on the assignment page as follows.
         - For example, if your name is Ada Lovelace, your function name should be `adaLStrategy()`.
      - Be sure to describe your strategy in a comment above the function.
 - Name each of your functions as detailed on the assignment page.
-
-- In the groupstrategies.py file, write <ins>at least 1 function</ins>.
-     - You only have to submit the functions that you write as the "driver" in pair programming.
-     - <ins>Between you and your partner/group members, you should have a total of 3 strategies submitted</ins>.
-     - The functions should be named with the team name that you decided on together, then number your strategies 1-3. 
-        - For example, if your team name is Red Wings, your function names should be `redWingsStrategy1()`,  `redWingsStrategy2()`, and `redWingsStrategy3()`.
-     - Describe each of your strategies in comments above each function.
-     - **You and your partners' function names should be different**!
-- When you are finished, be sure to sync (commit and push) your code to GitHub
 
 ---
 
