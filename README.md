@@ -1,4 +1,4 @@
-# Individual Game Show Strategies
+# Module 2 - Individual Game Show Strategies
 
 Please complete the problems on the assignment page as follows.
 
@@ -15,8 +15,6 @@ Please complete the problems on the assignment page as follows.
 ---
 
 ### Tips
-- Get in touch with your group early!
-    - The earlier you start, the more time you have to figure out our schedules and find time to meet.
 - Test your code. 
     - Find good stopping points to test out bits of code and
     functions even when your program is only partially finished. 
