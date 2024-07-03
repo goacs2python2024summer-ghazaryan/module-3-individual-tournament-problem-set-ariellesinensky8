@@ -1,0 +1,12 @@
+import random
+
+def strategy2(opponent_history):
+    
+    if 'split' in opponent_history:
+        if random.random() < 90:
+            return 'split'
+        else:
+            return 'steal'
+    
+    return 'steal'
+

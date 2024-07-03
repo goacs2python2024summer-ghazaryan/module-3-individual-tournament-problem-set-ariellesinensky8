@@ -1,0 +1,18 @@
+import random
+
+def strategy3(opponent_history):
+    
+    if len(opponent_history) < 5:
+        return random.choice(['split', 'steal'])
+    else:
+        split_count = opponent_history.count('split')
+        steal_count = opponent_history.count('steal')
+
+        if split_count > steal_count:
+            return 'split'
+        elif steal_count > split_count:
+            return 'steal'
+        else:
+           
+            return random.choice(['split', 'steal'])
+
